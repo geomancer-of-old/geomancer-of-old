@@ -1,4 +1,4 @@
-## Hello, World - Geomancer Here. Welcome to my README👋
+## Hello, World. Welcome to my README👋
 
 
 The work is never done. But winter is coming, and the commits must flow.
