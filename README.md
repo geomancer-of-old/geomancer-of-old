@@ -19,7 +19,7 @@ I also like to read.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=geomancer-of-old&theme=dark&random=1" />
+  <img src="https://streak-stats.demolab.com?user=geomancer-of-old&theme=dark" />
 </p>
 
 
