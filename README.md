@@ -6,7 +6,7 @@ I write code. Sometimes it works. Sometimes I learn why it didn't. I am still ex
 
 I also like to read.
 
-> *"When you play the game of code, you push or revert. A man commits his changes, or he watches his branch burn. Me? I keep pushing. Work is never done, but winter is coming, and commits must flow. So let them come. I will be here, pushing through the dark. " - maybe George R.R Martin*
+> *"When you play the game of code, you push or revert. A man commits his changes, or he watches his branch burn. Me? I keep pushing. Work is never done, but winter is coming, and commits must flow." - maybe George R.R Martin*
 
 ## Languages and Tools
 
