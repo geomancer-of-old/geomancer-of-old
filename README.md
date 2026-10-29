@@ -50,11 +50,9 @@ I also like to read.
 
 ## Security Projects & Labs
 
-### The Daily Lighthouse — Intentionally Vulnerable Web App
-A full Flask news site I built *to be broken*. It plants classic web vulnerabilities such as code injection, broken authentication, XSS, and access-control flaws, behind a realistic UI so participants can hunt and exploit them hands-on, then see how each one is fixed.
-> **Shows:** application security · secure code review · the attacker *and* defender mindset
-`Flask` · `Python` · `OWASP Top 10` · `AppSec`
+### Usurper
 
+A lab lifecycle manager. 
 
 ### OPNsense Edge Router Lab — Network Segmentation
 Stood up a segmented enterprise-style network in VirtualBox: an OPNsense edge router enforcing firewall policy across multiple VLANS, isolating client zones and controlling exactly what traffic may cross between them. A practical take on defence-in-depth and least-privilege at the network layer.
